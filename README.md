@@ -1,4 +1,4 @@
-|[logo](https://github.com/arfatsiddique/arfatsiddique/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
+![logo](https://github.com/arfatsiddique/arfatsiddique/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arfat Siddique</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
