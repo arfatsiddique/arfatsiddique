@@ -1,5 +1,7 @@
 ![logo](https://github.com/arfatsiddique/arfatsiddique/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Arfat Siddique</h1>
+<h1 align="center">Hi 👋,alt="Waving hand animated gif"
+         height="45"
+         width="45" I'm Arfat Siddique</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
